@@ -575,7 +575,7 @@ display: inline-block;
   font-weight: bold;
   opacity:0;
   background:black;
-  background-size: 100%;
+ 
   font-size: 20px;
  
 }
@@ -584,3 +584,35 @@ display: inline-block;
   opacity: 1;
 }
 
+
+.bb{
+    position: absolute;
+  margin-top: 100px;
+  margin-left: 50px;
+  font-weight: bold;
+  opacity:0;
+  background:black;
+ 
+  font-size: 20px;
+
+}
+
+.bb:hover{
+    opacity: 1;
+}
+
+.cc{
+    position: absolute;
+  margin-top: 100px;
+  margin-left: 40px;
+  font-weight: bold;
+  opacity:0;
+  background:black;
+ 
+  font-size: 20px;
+
+}
+
+.cc:hover{
+    opacity: 1;
+}
